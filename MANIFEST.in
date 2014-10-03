@@ -1,0 +1,9 @@
+include FastEMD/EMD_DEFS.hpp
+include FastEMD/emd_hat.hpp
+include FastEMD/emd_hat_impl.hpp
+include FastEMD/flow_utils.hpp
+include FastEMD/min_cost_flow.hpp
+include FastEMD/LICENSE.txt
+include FastEMD/README.txt
+recursive-include pyemd/tests *.py
+recursive-include pyemd/include *.hpp
