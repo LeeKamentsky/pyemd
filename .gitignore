@@ -5,6 +5,11 @@ __pycache__/
 # C extensions
 *.so
 
+#
+# _pyemd Cython detrius
+#
+pyemd/_pyemd.c*
+
 # Distribution / packaging
 .Python
 env/
